@@ -1,3 +1,9 @@
+# To run app
+
+An api server is used to provide local persistence.  The package.json file has the command
+for the server, so a separate terminal console is used for this server.  The server stores
+data in the db.json file.  The arrangement was used for development.  A back-end database would be needed for production.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
